@@ -1,0 +1,63 @@
+body{    
+    font-family: 'Arial','微軟正黑體','Microsoft JhengHei','Verdana', sans-serif ;
+    line-height: 1.6;
+}
+
+.wrapper{
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 23px;  
+}
+
+.light{
+    font-size: 23px;  
+}
+
+.text_center{
+    text-align: center;
+}
+
+.white{
+    color: white;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color:dodgerblue;
+}
+
+.bg_bk{
+    background: #000;
+}
+
+.pic img{
+    width: 754px;
+    height: auto;
+}
+
+.space{
+    margin: 25px 0;
+}
+
+.main{
+    font-size: 48px;
+}
+
+.sub{
+    font-size: 38px;
+}
+
+.least{
+    font-size: 36px;
+}
+
+.enter{
+    font-size: 32px;
+}
