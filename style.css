@@ -38,7 +38,7 @@ body{
 }
 
 .pic img{
-    width: 754px;
+    width: 94.5%;
     height: auto;
 }
 
@@ -60,4 +60,8 @@ body{
 
 .enter{
     font-size: 32px;
+}
+
+iframe{
+    max-width: 100%;
 }
